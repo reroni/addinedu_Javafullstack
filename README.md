@@ -1,1 +1,1 @@
-# addinedu_Javafullstack
+# addinedu_JavascriptFullstack
